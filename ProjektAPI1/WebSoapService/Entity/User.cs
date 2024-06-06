@@ -1,8 +1,7 @@
 ﻿using System.Runtime.Serialization;
 
-namespace SoapService.DataContract
+namespace ProjektAPI1.Entities
 {
-
     [DataContract]
     public class User
     {
@@ -16,6 +15,5 @@ namespace SoapService.DataContract
         public int Age { get; set; }
         [DataMember]
         public bool MarketingConsent { get; set; }
-
     }
 }

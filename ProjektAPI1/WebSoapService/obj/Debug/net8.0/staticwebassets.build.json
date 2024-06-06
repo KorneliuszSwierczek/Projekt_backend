@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2glM6D2qRAkTUHF2IdqH/o9NjQNk8vIqyehwRO7x8no=",
+  "Source": "WebSoapService",
+  "BasePath": "_content/WebSoapService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

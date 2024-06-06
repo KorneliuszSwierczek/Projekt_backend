@@ -1,4 +1,4 @@
-﻿using SoapService.DataContract;
+﻿using ProjektAPI1.Entities;
 
 namespace ProjektAPI1.ServiceContract
 {

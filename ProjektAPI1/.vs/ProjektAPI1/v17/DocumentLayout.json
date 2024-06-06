@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\kswie\\OneDrive\\Pulpit\\BACKEND_1\\Projekt_backend\\ProjektAPI1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{09F3AA5D-38C1-4176-AFEE-5C1BD90EEA99}|WebSoapService\\WebSoapService.csproj|c:\\users\\kswie\\onedrive\\pulpit\\backend_1\\projekt_backend\\projektapi1\\websoapservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F3AA5D-38C1-4176-AFEE-5C1BD90EEA99}|WebSoapService\\WebSoapService.csproj|solutionrelative:websoapservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4C1828DC-540C-40F7-911D-1560C93DD646}|ProjektAPI1\\ProjektAPI1.csproj|c:\\users\\kswie\\onedrive\\pulpit\\backend_1\\projekt_backend\\projektapi1\\projektapi1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C1828DC-540C-40F7-911D-1560C93DD646}|ProjektAPI1\\ProjektAPI1.csproj|solutionrelative:projektapi1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C1828DC-540C-40F7-911D-1560C93DD646}|ProjektAPI1\\ProjektAPI1.csproj|c:\\users\\kswie\\onedrive\\pulpit\\backend_1\\projekt_backend\\projektapi1\\projektapi1\\servicecontract\\userservice.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C1828DC-540C-40F7-911D-1560C93DD646}|ProjektAPI1\\ProjektAPI1.csproj|solutionrelative:projektapi1\\servicecontract\\userservice.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09F3AA5D-38C1-4176-AFEE-5C1BD90EEA99}|WebSoapService\\WebSoapService.csproj|c:\\users\\kswie\\onedrive\\pulpit\\backend_1\\projekt_backend\\projektapi1\\websoapservice\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F3AA5D-38C1-4176-AFEE-5C1BD90EEA99}|WebSoapService\\WebSoapService.csproj|solutionrelative:websoapservice\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C1828DC-540C-40F7-911D-1560C93DD646}|ProjektAPI1\\ProjektAPI1.csproj|c:\\users\\kswie\\onedrive\\pulpit\\backend_1\\projekt_backend\\projektapi1\\projektapi1\\servicecontract\\iuserservice.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C1828DC-540C-40F7-911D-1560C93DD646}|ProjektAPI1\\ProjektAPI1.csproj|solutionrelative:projektapi1\\servicecontract\\iuserservice.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C1828DC-540C-40F7-911D-1560C93DD646}|ProjektAPI1\\ProjektAPI1.csproj|c:\\users\\kswie\\onedrive\\pulpit\\backend_1\\projekt_backend\\projektapi1\\projektapi1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C1828DC-540C-40F7-911D-1560C93DD646}|ProjektAPI1\\ProjektAPI1.csproj|solutionrelative:projektapi1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4C1828DC-540C-40F7-911D-1560C93DD646}|ProjektAPI1\\ProjektAPI1.csproj|c:\\users\\kswie\\onedrive\\pulpit\\backend_1\\projekt_backend\\projektapi1\\projektapi1\\enitites\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C1828DC-540C-40F7-911D-1560C93DD646}|ProjektAPI1\\ProjektAPI1.csproj|solutionrelative:projektapi1\\enitites\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C1828DC-540C-40F7-911D-1560C93DD646}|ProjektAPI1\\ProjektAPI1.csproj|c:\\users\\kswie\\onedrive\\pulpit\\backend_1\\projekt_backend\\projektapi1\\projektapi1\\enitites\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C1828DC-540C-40F7-911D-1560C93DD646}|ProjektAPI1\\ProjektAPI1.csproj|solutionrelative:projektapi1\\enitites\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C1828DC-540C-40F7-911D-1560C93DD646}|ProjektAPI1\\ProjektAPI1.csproj|c:\\users\\kswie\\onedrive\\pulpit\\backend_1\\projekt_backend\\projektapi1\\projektapi1\\migrations\\20240605185953_updatetoidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C1828DC-540C-40F7-911D-1560C93DD646}|ProjektAPI1\\ProjektAPI1.csproj|solutionrelative:projektapi1\\migrations\\20240605185953_updatetoidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4C1828DC-540C-40F7-911D-1560C93DD646}|ProjektAPI1\\ProjektAPI1.csproj|c:\\users\\kswie\\onedrive\\pulpit\\backend_1\\projekt_backend\\projektapi1\\projektapi1\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4C1828DC-540C-40F7-911D-1560C93DD646}|ProjektAPI1\\ProjektAPI1.csproj|c:\\users\\kswie\\onedrive\\pulpit\\backend_1\\projekt_backend\\projektapi1\\projektapi1\\controllers\\actorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C1828DC-540C-40F7-911D-1560C93DD646}|ProjektAPI1\\ProjektAPI1.csproj|solutionrelative:projektapi1\\controllers\\actorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C1828DC-540C-40F7-911D-1560C93DD646}|ProjektAPI1\\ProjektAPI1.csproj|c:\\users\\kswie\\onedrive\\pulpit\\backend_1\\projekt_backend\\projektapi1\\projektapi1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4C1828DC-540C-40F7-911D-1560C93DD646}|ProjektAPI1\\ProjektAPI1.csproj|solutionrelative:projektapi1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,8 +38,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kswie\\OneDrive\\Pulpit\\BACKEND_1\\Projekt_backend\\ProjektAPI1\\WebSoapService\\Program.cs",
+              "RelativeDocumentMoniker": "WebSoapService\\Program.cs",
+              "ToolTip": "C:\\Users\\kswie\\OneDrive\\Pulpit\\BACKEND_1\\Projekt_backend\\ProjektAPI1\\WebSoapService\\Program.cs",
+              "RelativeToolTip": "WebSoapService\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T21:44:16.126Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
@@ -62,58 +67,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserService.cs.cs",
-              "DocumentMoniker": "C:\\Users\\kswie\\OneDrive\\Pulpit\\BACKEND_1\\Projekt_backend\\ProjektAPI1\\ProjektAPI1\\ServiceContract\\UserService.cs.cs",
-              "RelativeDocumentMoniker": "ProjektAPI1\\ServiceContract\\UserService.cs.cs",
-              "ToolTip": "C:\\Users\\kswie\\OneDrive\\Pulpit\\BACKEND_1\\Projekt_backend\\ProjektAPI1\\ProjektAPI1\\ServiceContract\\UserService.cs.cs",
-              "RelativeToolTip": "ProjektAPI1\\ServiceContract\\UserService.cs.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T18:29:43.207Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IUserService.cs.cs",
-              "DocumentMoniker": "C:\\Users\\kswie\\OneDrive\\Pulpit\\BACKEND_1\\Projekt_backend\\ProjektAPI1\\ProjektAPI1\\ServiceContract\\IUserService.cs.cs",
-              "RelativeDocumentMoniker": "ProjektAPI1\\ServiceContract\\IUserService.cs.cs",
-              "ToolTip": "C:\\Users\\kswie\\OneDrive\\Pulpit\\BACKEND_1\\Projekt_backend\\ProjektAPI1\\ProjektAPI1\\ServiceContract\\IUserService.cs.cs",
-              "RelativeToolTip": "ProjektAPI1\\ServiceContract\\IUserService.cs.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T18:29:30.765Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\kswie\\OneDrive\\Pulpit\\BACKEND_1\\Projekt_backend\\ProjektAPI1\\ProjektAPI1\\Enitites\\User.cs",
-              "RelativeDocumentMoniker": "ProjektAPI1\\Enitites\\User.cs",
-              "ToolTip": "C:\\Users\\kswie\\OneDrive\\Pulpit\\BACKEND_1\\Projekt_backend\\ProjektAPI1\\ProjektAPI1\\Enitites\\User.cs",
-              "RelativeToolTip": "ProjektAPI1\\Enitites\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "DocumentMoniker": "C:\\Users\\kswie\\OneDrive\\Pulpit\\BACKEND_1\\Projekt_backend\\ProjektAPI1\\WebSoapService\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "WebSoapService\\Entity\\User.cs",
+              "ToolTip": "C:\\Users\\kswie\\OneDrive\\Pulpit\\BACKEND_1\\Projekt_backend\\ProjektAPI1\\WebSoapService\\Entity\\User.cs",
+              "RelativeToolTip": "WebSoapService\\Entity\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T18:20:33.69Z",
+              "WhenOpened": "2024-06-06T21:39:14.029Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "ActorController.cs",
               "DocumentMoniker": "C:\\Users\\kswie\\OneDrive\\Pulpit\\BACKEND_1\\Projekt_backend\\ProjektAPI1\\ProjektAPI1\\Controllers\\ActorController.cs",
               "RelativeDocumentMoniker": "ProjektAPI1\\Controllers\\ActorController.cs",
               "ToolTip": "C:\\Users\\kswie\\OneDrive\\Pulpit\\BACKEND_1\\Projekt_backend\\ProjektAPI1\\ProjektAPI1\\Controllers\\ActorController.cs",
               "RelativeToolTip": "ProjektAPI1\\Controllers\\ActorController.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAzwEoAAAAAAAAA",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAwEoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T15:13:55.282Z"
+              "WhenOpened": "2024-06-04T15:13:55.282Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kswie\\OneDrive\\Pulpit\\BACKEND_1\\Projekt_backend\\ProjektAPI1\\ProjektAPI1\\Program.cs",
+              "RelativeDocumentMoniker": "ProjektAPI1\\Program.cs",
+              "ToolTip": "C:\\Users\\kswie\\OneDrive\\Pulpit\\BACKEND_1\\Projekt_backend\\ProjektAPI1\\ProjektAPI1\\Program.cs",
+              "RelativeToolTip": "ProjektAPI1\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAkwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T15:33:04.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\Users\\kswie\\OneDrive\\Pulpit\\BACKEND_1\\Projekt_backend\\ProjektAPI1\\ProjektAPI1\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "ProjektAPI1\\Data\\DataContext.cs",
@@ -125,44 +118,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\kswie\\OneDrive\\Pulpit\\BACKEND_1\\Projekt_backend\\ProjektAPI1\\ProjektAPI1\\appsettings.json",
               "RelativeDocumentMoniker": "ProjektAPI1\\appsettings.json",
               "ToolTip": "C:\\Users\\kswie\\OneDrive\\Pulpit\\BACKEND_1\\Projekt_backend\\ProjektAPI1\\ProjektAPI1\\appsettings.json",
               "RelativeToolTip": "ProjektAPI1\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAwAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-04T15:26:37.447Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kswie\\OneDrive\\Pulpit\\BACKEND_1\\Projekt_backend\\ProjektAPI1\\ProjektAPI1\\Program.cs",
-              "RelativeDocumentMoniker": "ProjektAPI1\\Program.cs",
-              "ToolTip": "C:\\Users\\kswie\\OneDrive\\Pulpit\\BACKEND_1\\Projekt_backend\\ProjektAPI1\\ProjektAPI1\\Program.cs",
-              "RelativeToolTip": "ProjektAPI1\\Program.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAADUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T15:33:04.268Z",
+              "WhenOpened": "2024-06-04T15:26:37.447Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20240605185953_UpdateToIdentityDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\kswie\\OneDrive\\Pulpit\\BACKEND_1\\Projekt_backend\\ProjektAPI1\\ProjektAPI1\\Migrations\\20240605185953_UpdateToIdentityDbContext.cs",
-              "RelativeDocumentMoniker": "ProjektAPI1\\Migrations\\20240605185953_UpdateToIdentityDbContext.cs",
-              "ToolTip": "C:\\Users\\kswie\\OneDrive\\Pulpit\\BACKEND_1\\Projekt_backend\\ProjektAPI1\\ProjektAPI1\\Migrations\\20240605185953_UpdateToIdentityDbContext.cs",
-              "RelativeToolTip": "ProjektAPI1\\Migrations\\20240605185953_UpdateToIdentityDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T18:59:54.179Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Actor.cs",
               "DocumentMoniker": "C:\\Users\\kswie\\OneDrive\\Pulpit\\BACKEND_1\\Projekt_backend\\ProjektAPI1\\ProjektAPI1\\Enitites\\Actor.cs",
               "RelativeDocumentMoniker": "ProjektAPI1\\Enitites\\Actor.cs",
@@ -170,8 +139,7 @@
               "RelativeToolTip": "ProjektAPI1\\Enitites\\Actor.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T14:58:18.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T14:58:18.667Z"
             }
           ]
         }
