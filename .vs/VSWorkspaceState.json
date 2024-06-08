@@ -5,10 +5,12 @@
     "\\ProjektAPI1\\ProjektAPI1",
     "\\ProjektAPI1\\ProjektAPI1\\Enitites",
     "\\ProjektAPI1\\WebApplicationAdmin",
+    "\\ProjektAPI1\\WebApplicationAdmin\\Api",
+    "\\ProjektAPI1\\WebApplicationAdmin\\Api\\Controllers",
     "\\ProjektAPI1\\WebApplicationAdmin\\Pages",
     "\\ProjektAPI1\\WebApplicationAdmin\\Pages\\Shared",
     "\\ProjektAPI1\\WebSoapService"
   ],
-  "SelectedNode": "\\ProjektAPI1\\WebApplicationAdmin\\Pages\\Shared\\_Layout.cshtml",
+  "SelectedNode": "\\ProjektAPI1\\WebApplicationAdmin\\Api\\Controllers\\SampleController.cs",
   "PreviewInSolutionExplorer": false
 }
