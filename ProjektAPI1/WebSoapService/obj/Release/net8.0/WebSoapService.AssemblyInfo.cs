@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebSoapService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f03f08778886bdf8e532285eb00fdeeec4bf6750")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac0ca52e1fd23d9ecd815f1cf8982865243f4b54")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebSoapService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebSoapService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\kswie\\OneDrive\\Pulpit\\BACKEND_1\\Projekt_backend\\ProjektAPI1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F51BECF6-AFB1-4CA0-ACA9-AD1AFBBA920D}|SoapClient\\SoapClient.csproj|c:\\users\\kswie\\onedrive\\pulpit\\backend_1\\projekt_backend\\projektapi1\\soapclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51BECF6-AFB1-4CA0-ACA9-AD1AFBBA920D}|SoapClient\\SoapClient.csproj|solutionrelative:soapclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{09F3AA5D-38C1-4176-AFEE-5C1BD90EEA99}|WebSoapService\\WebSoapService.csproj|c:\\users\\kswie\\onedrive\\pulpit\\backend_1\\projekt_backend\\projektapi1\\websoapservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09F3AA5D-38C1-4176-AFEE-5C1BD90EEA99}|WebSoapService\\WebSoapService.csproj|solutionrelative:websoapservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -82,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,7 +102,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kswie\\OneDrive\\Pulpit\\BACKEND_1\\Projekt_backend\\ProjektAPI1\\SoapClient\\Program.cs",
+              "RelativeDocumentMoniker": "SoapClient\\Program.cs",
+              "ToolTip": "C:\\Users\\kswie\\OneDrive\\Pulpit\\BACKEND_1\\Projekt_backend\\ProjektAPI1\\SoapClient\\Program.cs",
+              "RelativeToolTip": "SoapClient\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T15:03:08.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "SampleController.cs",
               "DocumentMoniker": "C:\\Users\\kswie\\OneDrive\\Pulpit\\BACKEND_1\\Projekt_backend\\ProjektAPI1\\WebApplicationAdmin\\Api\\Controllers\\SampleController.cs",
               "RelativeDocumentMoniker": "WebApplicationAdmin\\Api\\Controllers\\SampleController.cs",
@@ -106,12 +123,11 @@
               "RelativeToolTip": "WebApplicationAdmin\\Api\\Controllers\\SampleController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T16:04:14.755Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T16:04:14.755Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\kswie\\OneDrive\\Pulpit\\BACKEND_1\\Projekt_backend\\ProjektAPI1\\WebApplicationAdmin\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "WebApplicationAdmin\\Data\\ApplicationDbContext.cs",
@@ -119,12 +135,11 @@
               "RelativeToolTip": "WebApplicationAdmin\\Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T16:15:15.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T16:15:15.683Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\kswie\\OneDrive\\Pulpit\\BACKEND_1\\Projekt_backend\\ProjektAPI1\\WebApplicationAdmin\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebApplicationAdmin\\Pages\\Shared\\_Layout.cshtml",
@@ -132,12 +147,11 @@
               "RelativeToolTip": "WebApplicationAdmin\\Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAABkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-07T18:15:11.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T18:15:11.066Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\kswie\\OneDrive\\Pulpit\\BACKEND_1\\Projekt_backend\\ProjektAPI1\\WebApplicationAdmin\\Pages\\Admin\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplicationAdmin\\Pages\\Admin\\Index.cshtml",
@@ -145,12 +159,11 @@
               "RelativeToolTip": "WebApplicationAdmin\\Pages\\Admin\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-07T16:07:38.557Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T16:07:38.557Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\kswie\\OneDrive\\Pulpit\\BACKEND_1\\Projekt_backend\\ProjektAPI1\\WebApplicationAdmin\\Pages\\Admin\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "WebApplicationAdmin\\Pages\\Admin\\Index.cshtml.cs",
@@ -158,12 +171,11 @@
               "RelativeToolTip": "WebApplicationAdmin\\Pages\\Admin\\Index.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T16:08:40.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T16:08:40.284Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\kswie\\OneDrive\\Pulpit\\BACKEND_1\\Projekt_backend\\ProjektAPI1\\WebApplicationAdmin\\Pages\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "WebApplicationAdmin\\Pages\\Shared\\_LoginPartial.cshtml",
@@ -171,12 +183,11 @@
               "RelativeToolTip": "WebApplicationAdmin\\Pages\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-07T18:35:56.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T18:35:56.64Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kswie\\OneDrive\\Pulpit\\BACKEND_1\\Projekt_backend\\ProjektAPI1\\WebApplicationAdmin\\Program.cs",
               "RelativeDocumentMoniker": "WebApplicationAdmin\\Program.cs",
@@ -184,12 +195,11 @@
               "RelativeToolTip": "WebApplicationAdmin\\Program.cs",
               "ViewState": "AQIAACEAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T16:04:38.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T16:04:38.906Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\kswie\\OneDrive\\Pulpit\\BACKEND_1\\Projekt_backend\\ProjektAPI1\\WebSoapService\\Entity\\User.cs",
               "RelativeDocumentMoniker": "WebSoapService\\Entity\\User.cs",
@@ -197,12 +207,11 @@
               "RelativeToolTip": "WebSoapService\\Entity\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T21:39:14.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T21:39:14.029Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kswie\\OneDrive\\Pulpit\\BACKEND_1\\Projekt_backend\\ProjektAPI1\\WebSoapService\\Program.cs",
               "RelativeDocumentMoniker": "WebSoapService\\Program.cs",
@@ -215,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kswie\\OneDrive\\Pulpit\\BACKEND_1\\Projekt_backend\\ProjektAPI1\\ProjektAPI1\\Program.cs",
               "RelativeDocumentMoniker": "ProjektAPI1\\Program.cs",
@@ -223,12 +232,11 @@
               "RelativeToolTip": "ProjektAPI1\\Program.cs",
               "ViewState": "AQIAACEAAAAAAAAAAAAAAAsAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T15:33:04.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T15:33:04.268Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Actor.cs",
               "DocumentMoniker": "C:\\Users\\kswie\\OneDrive\\Pulpit\\BACKEND_1\\Projekt_backend\\ProjektAPI1\\ProjektAPI1\\Enitites\\Actor.cs",
               "RelativeDocumentMoniker": "ProjektAPI1\\Enitites\\Actor.cs",
@@ -236,12 +244,11 @@
               "RelativeToolTip": "ProjektAPI1\\Enitites\\Actor.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T14:58:18.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T14:58:18.667Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\Users\\kswie\\OneDrive\\Pulpit\\BACKEND_1\\Projekt_backend\\ProjektAPI1\\ProjektAPI1\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "ProjektAPI1\\Data\\DataContext.cs",
@@ -249,12 +256,11 @@
               "RelativeToolTip": "ProjektAPI1\\Data\\DataContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T15:22:06.695Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T15:22:06.695Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ActorController.cs",
               "DocumentMoniker": "C:\\Users\\kswie\\OneDrive\\Pulpit\\BACKEND_1\\Projekt_backend\\ProjektAPI1\\ProjektAPI1\\Controllers\\ActorController.cs",
               "RelativeDocumentMoniker": "ProjektAPI1\\Controllers\\ActorController.cs",
@@ -262,12 +268,11 @@
               "RelativeToolTip": "ProjektAPI1\\Controllers\\ActorController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T15:13:55.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T15:13:55.282Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\kswie\\OneDrive\\Pulpit\\BACKEND_1\\Projekt_backend\\ProjektAPI1\\WebApplicationAdmin\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplicationAdmin\\Pages\\Index.cshtml",
@@ -279,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\kswie\\OneDrive\\Pulpit\\BACKEND_1\\Projekt_backend\\ProjektAPI1\\WebApplicationAdmin\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "WebApplicationAdmin\\Pages\\_ViewStart.cshtml",
@@ -291,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "20240607183003_NazwaMigracji.cs",
               "DocumentMoniker": "C:\\Users\\kswie\\OneDrive\\Pulpit\\BACKEND_1\\Projekt_backend\\ProjektAPI1\\WebApplicationAdmin\\Migrations\\20240607183003_NazwaMigracji.cs",
               "RelativeDocumentMoniker": "WebApplicationAdmin\\Migrations\\20240607183003_NazwaMigracji.cs",
@@ -303,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\kswie\\OneDrive\\Pulpit\\BACKEND_1\\Projekt_backend\\ProjektAPI1\\WebApplicationAdmin\\appsettings.json",
               "RelativeDocumentMoniker": "WebApplicationAdmin\\appsettings.json",
@@ -315,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\kswie\\OneDrive\\Pulpit\\BACKEND_1\\Projekt_backend\\ProjektAPI1\\ProjektAPI1\\appsettings.json",
               "RelativeDocumentMoniker": "ProjektAPI1\\appsettings.json",
