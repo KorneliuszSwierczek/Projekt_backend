@@ -11,6 +11,6 @@
     "\\ProjektAPI1\\WebApplicationAdmin\\Pages\\Shared",
     "\\ProjektAPI1\\WebSoapService"
   ],
-  "SelectedNode": "\\ProjektAPI1\\WebApplicationAdmin\\Api\\Controllers\\SampleController.cs",
+  "SelectedNode": "\\ProjektAPI1\\WebSoapService\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
