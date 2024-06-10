@@ -43,14 +43,11 @@ app.MapIdentityApi<IdentityUser>();
 
 app.UseHttpsRedirection();
 
-app.UseAuthorization();
-
 app.UseRouting();
 
-app.UseEndpoints(endpoints =>
-{
-    endpoints.MapControllers();
-});
+app.UseAuthorization();
+
+app.MapControllers();
 
 
 app.Run();

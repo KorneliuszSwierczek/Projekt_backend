@@ -1,13 +1,16 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using ProjektAPI1.Data;
 using ProjektAPI1.Enitites;
+using Swashbuckle.AspNetCore.Annotations;
 
 namespace ProjektAPI1.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [SwaggerTag("actors")]
     public class ActorController : ControllerBase
     {
         private readonly DataContext _context;
@@ -17,7 +20,7 @@ namespace ProjektAPI1.Controllers
             _context = context;
         }
 
-        [HttpGet]
+        [HttpGet ("getallactors")]
         public async Task<ActionResult<List<Actor>>> GetAllActors()
         {
             var actors = await _context.actors.ToListAsync();
@@ -25,7 +28,7 @@ namespace ProjektAPI1.Controllers
             return Ok(actors);
 
         }
-
+        [Authorize]
         [HttpGet("{Id}")]
         public async Task<ActionResult<Actor>> GetActor(int Id)
         {
@@ -38,7 +41,8 @@ namespace ProjektAPI1.Controllers
 
         }
 
-        [HttpPost]
+        [Authorize]
+        [HttpPost ("AddActors")]
         public async Task<ActionResult<List<Actor>>> AddActor(Actor actor)
         {
             _context.actors.Add(actor);
@@ -48,7 +52,8 @@ namespace ProjektAPI1.Controllers
 
         }
 
-        [HttpPut]
+        [Authorize]
+        [HttpPut ("UpdateActors")]
         public async Task<ActionResult<List<Actor>>> UpdateActor(Actor updatedActor)
         {
             var dbactors = await _context.actors.FindAsync(updatedActor.Id);
@@ -63,7 +68,8 @@ namespace ProjektAPI1.Controllers
             return Ok(await _context.actors.ToListAsync());
 
         }
-        [HttpDelete]
+        [Authorize]
+        [HttpDelete ("DeleteActors")]
         public async Task<ActionResult<List<Actor>>> DeleteActor(int Id)
         {
             var dbactors = await _context.actors.FindAsync(Id);

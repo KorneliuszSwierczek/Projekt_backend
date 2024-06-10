@@ -294,3 +294,4 @@ C:\Users\kswie\OneDrive\Pulpit\BACKEND_1\Projekt_backend\ProjektAPI1\ProjektAPI1
 C:\Users\kswie\OneDrive\Pulpit\BACKEND_1\Projekt_backend\ProjektAPI1\ProjektAPI1\bin\Debug\net8.0\System.ServiceModel.Http.dll
 C:\Users\kswie\OneDrive\Pulpit\BACKEND_1\Projekt_backend\ProjektAPI1\ProjektAPI1\bin\Debug\net8.0\System.ServiceModel.Primitives.dll
 C:\Users\kswie\OneDrive\Pulpit\BACKEND_1\Projekt_backend\ProjektAPI1\ProjektAPI1\bin\Debug\net8.0\System.ServiceModel.dll
+C:\Users\kswie\OneDrive\Pulpit\BACKEND_1\Projekt_backend\ProjektAPI1\ProjektAPI1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll

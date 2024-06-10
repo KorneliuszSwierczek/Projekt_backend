@@ -4,6 +4,7 @@
     "\\ProjektAPI1",
     "\\ProjektAPI1\\ProjektAPI1",
     "\\ProjektAPI1\\ProjektAPI1\\Enitites",
+    "\\ProjektAPI1\\SoapClient",
     "\\ProjektAPI1\\WebApplicationAdmin",
     "\\ProjektAPI1\\WebApplicationAdmin\\Api",
     "\\ProjektAPI1\\WebApplicationAdmin\\Api\\Controllers",
@@ -11,6 +12,6 @@
     "\\ProjektAPI1\\WebApplicationAdmin\\Pages\\Shared",
     "\\ProjektAPI1\\WebSoapService"
   ],
-  "SelectedNode": "\\ProjektAPI1\\WebSoapService\\Program.cs",
+  "SelectedNode": "\\ProjektAPI1\\ProjektAPI1\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
